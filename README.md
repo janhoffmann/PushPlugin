@@ -268,7 +268,7 @@ Below are the methods for installing this plugin automatically using command lin
 
 The plugin can be installed via the Cordova command line interface:
 
-1) Navigate to the root folder for your phonegap project. 2) Run the command.
+1) Navigate to the root folder for your cordova project. 2) Run the command.
 
 ```sh
 cordova plugin add https://github.com/phonegap-build/PushPlugin.git
